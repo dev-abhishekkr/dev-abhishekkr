@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Abhishek Kumar
-- 👀 I’m interested in Frontend Development & leaning Ai
-- 🌱 I’m currently learning React.js
-- 🤝 I’m looking to collaborate on Frontend Development
+- 👀 I’m a Frontend Developer.
+- 🌱 I’m currently learning Backed Dev.
+- 🤝 looking to collaborate on Frontend Development
 - 📫 How to reach me dev.abhishekkr@gmail.com
 - 😄 Pronouns: he/his
-- 💭 Ask me about Web devlopment & life
+- 💭 Ask me about development, new tech, movies & life
 - ⚡ Fun-fact: I like to code while listening music
 
 
