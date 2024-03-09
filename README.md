@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhishek Kumar and I'm a Frontend developer, from Gaya, India currently in 3rd year @nsec Kolkata, India</p>
+<p align="left">I'm Abhishek Kumar and I'm a Frontend developer, from Gaya, India currently in 3rd year @nsec Kolkata, India</p>
 
 ###
 
