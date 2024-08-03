@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhishek Kumar a MERN stack developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/MERN Dev role.<br>Visit my portfolio: https://abhishek-dev.vercel.app/
+Hey there, I'm Abhishek Kumar a MERN stack developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/MERN Dev role.<br>Visit my portfolio: https://abhishekkr-dev.vercel.app/
 
 
 ## 🌐 Socials:
