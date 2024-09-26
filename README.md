@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhishek Kumar a Fullstack developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at dev.abhishekkr@gmail.com <br>or Visit my portfolio: https://abhishekkr-dev.vercel.app/
+Hey there, I'm Abhishek Kumar a Fullstack web developer hailing from Kolkata, India.<br>I'm actively looking for Frontend/Fullstack Dev role.<br>Contact me at abhishekkr.nsec@gmail.com <br>or Visit my portfolio: https://abhishekkr-dev.vercel.app/
 
 
 ## 🌐 Socials:
